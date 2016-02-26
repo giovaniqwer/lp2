@@ -1,0 +1,4 @@
+  Tipo abstrato de dados: é um item especificado em termos das operações que podem ser realizadas nele.
+  Classe:  é um gabarito para a definição de objetos. Através da definição de uma classe, descreve-se que propriedades ou atributos que objeto terá.
+  Objeto: é a instância da classe.
+  Mensagens: sã chamadas a procedimentos e funções.
