@@ -1,0 +1,3 @@
+    A diferença entre os execicios foi o fato de enquanto as variáveis eram do tipo inteiro os resultados se mantinham neste
+formato, logo os resultados que não eram exatos (como o da divisão) foram arredondados. Com os outros tipos de variáveis, float
+e double, os resultados foram dados com exatidão, ou seja com suas casas decimais.
