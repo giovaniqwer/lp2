@@ -1,0 +1,2 @@
+Ela tem o propósito de instanciar o objeto que foi declarado. Quando ela é utilizada no aplicativo o construtor da classe ao 
+qual o objeto foi instâciado é invocado.
