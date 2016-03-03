@@ -25,8 +25,8 @@ public class ContaBancaria2 {
     }
     
     public static void main(String[] args) {
-    ContaBancaria2 cb1 = new ContaBancaria2();
-    cb1.titularConta = "Giovani";
+	 	ContaBancaria2 cb1 = new ContaBancaria2();
+    		cb1.titularConta = "Giovani";
 		cb1.agencia=3610;
 		cb1.contaCorrente=15766;
 		cb1.saldo=35.54;
@@ -38,7 +38,7 @@ public class ContaBancaria2 {
 		cb1.imprimirSaldoTotal(cb1.saldo, cb1.limiteExtra);
 		
 		ContaBancaria2 cb2 = new ContaBancaria2();
-    cb2.titularConta="Rafaela";
+    		cb2.titularConta="Rafaela";
 		cb2.agencia=810;
 		cb2.contaCorrente=6132;
 		cb2.saldo=42.31;
