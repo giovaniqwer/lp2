@@ -1,46 +1,30 @@
-public class Palindromo {
-    public static void main(String[] args) {
-    	String palavra = args[0];
-		int tamanho = Integer.parseInt(args[1]);
-		int qteLetras = palavra.length();
-
-		String plv1[], plv2[];
-		int i, j, inicio, fim;
-      	boolean teste = false;
-	
-		plv1 = new String[qteLetras];
-		plv2 = new String[qteLetras];
-
-		for(i = 1; i <= qteLetras; i++){
-			plv1[i] = palavra.substring(i,i);
-		}
-
-		for(i = qteLetras; i >= 1; i--){
-			plv2[i] = palavra.substring(i,i);
-		}
-		
-      	j = tamanho;
-     	for(i=1; i<j && teste == false; i++){
-            if(plv1[i].equals(plv2[j])){
-              inicio = i;
-              fim = j;
-              do{
-                for(i=inicio; i<j; i++){
-                  if(plv1[i].equals(plv2[j])){
-                  	teste = true;
-                  	i++;
-                    j--;
-                  }else{
-                  	teste = false;
-                  }
-                }
-              }while(teste == true);
-            }
-          j++;
-      	}
-      	
-      for(i=1; i<=qteLetras; i++){
-      	System.out.print(plv1[i]);
-      }
-	}
 }
+}	
+}		
+		;))5+a,a(gnirtsbus.arvalap+ " : é omordnílap O"(nltnirp.tuo.metsyS			
+{esle}		
+		;)"!!!omordnílap é oãN"(nltnirp.tuo.metsyS			
+{)1- == a(fi		
+;)arvalap(omordnilaphe.etset = a tni		
+;)(omordnilaP wen = etset omordnilaP		
+;]0[sgra = arvalap gnirtS	    
+{ )sgra ][gnirtS(niam diov citats cilbup    
+
+}	
+;1- nruter		
+}		
+;"" = 3arvalap			
+}			
+;i nruter				
+{))3arvalap(slauqe.2arvalap(fi			
+ }			
+;)j(tArahc.2arvalap + 3arvalap = 3arvalap				
+{)--j ;0=>j ;4 = j tni(rof			
+;)5+i,i(gnirtsbus.arvalap = 2arvalap			
+{)++i ;5 - sarteLetq =< i ;0=i tni(rof		
+
+;"" = 3arvalap gnirtS		
+;"" = 2arvalap gnirtS		
+;)(htgnel.arvalap = sarteLetq tni		
+{)arvalap gnirtS(omordnilaphe tni cilbup	
+{ omordnilaP ssalc cilbup
