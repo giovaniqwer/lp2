@@ -17,6 +17,7 @@ public class Palindromo {
 		return -1;
 	}
 
+    //Feito por Giovani Júnior
     public static void main(String[] args) {
     	String palavra = args[0];
 		Palindromo teste = new Palindromo();
@@ -24,7 +25,8 @@ public class Palindromo {
 		if(a == -1){
 			System.out.println("Não é palíndromo!!!");		
 		}else{
-			System.out.println("O palíndromo é : " +palavra.substring(a,a+5));		
+			System.out.println("O palíndromo é : " +palavra.substring(a,a+5));
+			System.out.println("Inicia na posição " + a+" e vai até a posição " + (a+5));
 		}
 	}
 }
